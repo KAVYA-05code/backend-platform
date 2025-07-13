@@ -26,7 +26,7 @@ This is the **Express.js + MongoDB** backend server for the **Peer Project Hub**
 
 ## 📁 Project Structure
 
-backend-platform/
+server/
 ├── config/ # Firebase and DB configs
 ├── controllers/ # Request handlers
 ├── middleware/ # Auth middleware
